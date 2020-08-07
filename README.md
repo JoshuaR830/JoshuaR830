@@ -1,18 +1,18 @@
-### Hi there 👋
+# Welcome
 
-### A little bit about me
+### Here is a little bit about me
 I am a final year student at the University of Nottingham
 Ducks are cool
 
-### Recent projects
+## Recent projects
 I'm currently working on a games library to digitize board games I like to play. A lot of word based games and puzzles use a lot of paper when playing - on a mobile device that isn't a problem.
 Where am I now? Funny you should ask, I have a server that I wrote in .Net core that manages everything. I used SignalR to allow for real time communication between devices.
 The server can serve up web pages but I am currently learning to create an app with Flutter.
 
-### What's next
+## What's next
 I am going to be working on a final year project where I will be building a platform to aid people in their use of self help resources.
 
-## The premise
+### The premise
 Imagine this...
 Things are not going your way today - again! You know you found a resource last time that helped give you that all important boost you needed - but you just can't remember what it was. 
 What if you could visit an app, say what you are doing and how you are feeling and get provided with a list of things that have helped you when you faced a similar situation before.
