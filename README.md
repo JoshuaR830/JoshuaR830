@@ -3,8 +3,14 @@
 ### Here is a little bit about me
 I am a final year student at the University of Nottingham
 Ducks are cool
+I have a marmot called Wilbur - he loves all kinds of mischief and adventures!
 
 ## Recent projects
+### Wilbur's adventures
+I've recently built an app which is available on Google Play called Wilbur's Adventures.
+I created the app in Flutter and the backend using API Gateway, AWS Lambda, DyanmoDB and S3. 
+
+### Games library
 I'm currently working on a games library to digitize board games I like to play. A lot of word based games and puzzles use a lot of paper when playing - on a mobile device that isn't a problem.
 Where am I now? Funny you should ask, I have a server that I wrote in .Net core that manages everything. I used SignalR to allow for real time communication between devices.
 The server can serve up web pages but I am currently learning to create an app with Flutter.
