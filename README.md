@@ -1,9 +1,9 @@
 # Welcome
 
 ### Here is a little bit about me
-I am a Junior Software Engineer
-Ducks are cool
-I have a marmot called Wilbur - he loves all kinds of mischief and adventures!
+- I am a Junior Software Engineer
+- Ducks are cool
+- I have a marmot called Wilbur - he loves all kinds of mischief and adventures!
 
 ## Recent projects
 ### Wilbur's adventures
